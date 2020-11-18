@@ -1,14 +1,11 @@
 
 # 실시간 화상 토론 서비스
 
-## 스킬셋
-- Python
+## 기술스택
 - Raspberrypi
-- PuTTY
-- mjpg-streamer
+- Python 3
 - JSP
-- Apache Tomcat
-- TCP 프로토콜
+- Apache Tomcat 9.0
 
 <br>
 
